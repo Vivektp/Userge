@@ -2,9 +2,9 @@
 #
 # Copyright (C) 2020 by UsergeTeam@Github, < https://github.com/UsergeTeam >.
 #
-# This file is part of < https://github.com/UsergeTeam/Userge > project,
+# This file is part of < https://github.com/ > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/uaudith/Userge/blob/master/LICENSE >
+# Please see < https://github.com/ >
 #
 # All rights reserved.
 
@@ -17,5 +17,5 @@ __minor__ = 3
 __micro__ = 0
 
 __python_version__ = f"{version_info[0]}.{version_info[1]}.{version_info[2]}"
-__license__ = "[GNU GPL v3.0](https://github.com/UsergeTeam/Userge/blob/master/LICENSE)"
-__copyright__ = "[UsergeTeam](https://github.com/UsergeTeam)"
+__license__ = "[GNU GPL v3.0](https://github.com/)"
+__copyright__ = "[SPEEDY](https://github.com/)"
